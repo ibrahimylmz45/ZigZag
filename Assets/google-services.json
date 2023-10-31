@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591221561173",
+    "project_id": "timekiller-b2649",
+    "storage_bucket": "timekiller-b2649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591221561173:android:b45a726aa7bb5aedc941dc",
+        "android_client_info": {
+          "package_name": "com.gameylmz.zigzag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591221561173-44ul6k1gl4boo5jbjcfum21ptcgj5qem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBba1RAweESwNE8NS1-m9QzaX-GPluozzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591221561173-44ul6k1gl4boo5jbjcfum21ptcgj5qem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

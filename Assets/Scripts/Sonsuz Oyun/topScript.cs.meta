@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e6a26d669c3d5954e8acf37fe441fd24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - zeminMaterial: {instanceID: 0}
+  - rewardAudio: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  - musicButton: {instanceID: 0}
+  - soundButton: {instanceID: 0}
+  - startObject: {instanceID: 0}
+  - musicOn: {fileID: 21300000, guid: e0be445b94d2e2445b20eaf5910ec544, type: 3}
+  - musicOff: {fileID: 21300000, guid: b748286ac8cd95f4c804b24579204d4c, type: 3}
+  - soundOn: {instanceID: 0}
+  - soundOff: {instanceID: 0}
+  - backGroundMusic: {instanceID: 0}
+  - rewardMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
